@@ -6,12 +6,12 @@ Technology Stack: MERN
 
 Command to run the Project
 
-npm run dev
+*npm run dev*
 
 To run only server
 
-npm run server
+*npm run server*
 
 To run only client 
 
-npm run client
+*npm run client*
